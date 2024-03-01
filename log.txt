@@ -1,0 +1,1662 @@
+Log file cleared.2024-03-01 09:01:08.352088 
+Starting game...9:1:8 
+Creating screen...
+Screen size: (700, 600)
+Screen title: Lumbr
+fps 30
+Font: <pygame.font.Font object at 0x7fd147ae9ce0>
+clock: <Clock(fps=0.00)>
+9:1:8 
+Event: <Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 0})>
+9:1:8 
+Event: <Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 0})>
+9:1:8 
+Event: <Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 0})>
+9:1:8 
+Event: <Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 0})>
+9:1:8 
+Event: <Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 1})>
+9:1:8 
+Event: <Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 1})>
+9:1:8 
+Event: <Event(32774-WindowShown {'window': None})>
+9:1:8 
+Event: <Event(32775-WindowHidden {'window': None})>
+9:1:8 
+Event: <Event(32774-WindowShown {'window': None})>
+9:1:8 
+Event: <Event(32777-WindowMoved {'x': 610, 'y': 277, 'window': None})>
+9:1:8 
+Event: <Event(32770-VideoExpose {})>
+9:1:8 
+Event: <Event(32776-WindowExposed {'window': None})>
+9:1:8 
+Event: <Event(32768-ActiveEvent {'gain': 1, 'state': 1})>
+9:1:8 
+Event: <Event(32783-WindowEnter {'window': None})>
+9:1:8 
+Event: <Event(1024-MouseMotion {'pos': (526, 378), 'rel': (0, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:8 
+Event: <Event(32768-ActiveEvent {'gain': 1, 'state': 2})>
+9:1:8 
+Event: <Event(32785-WindowFocusGained {'window': None})>
+9:1:8 
+Event: <Event(32788-WindowTakeFocus {'window': None})>
+9:1:8 
+Event: <Event(1024-MouseMotion {'pos': (525, 384), 'rel': (-1, 6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (524, 389), 'rel': (-1, 5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (523, 394), 'rel': (-1, 5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (522, 399), 'rel': (-1, 5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (521, 402), 'rel': (-1, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (520, 405), 'rel': (-1, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (519, 407), 'rel': (-1, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (518, 409), 'rel': (-1, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (517, 411), 'rel': (-1, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (516, 412), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (515, 413), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (514, 415), 'rel': (-1, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (511, 417), 'rel': (-3, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (509, 419), 'rel': (-2, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (506, 420), 'rel': (-3, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (503, 422), 'rel': (-3, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (500, 423), 'rel': (-3, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(1024-MouseMotion {'pos': (498, 423), 'rel': (-2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:9 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:10 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:10 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:10 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:10 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:10 
+Tree health: 100
+Damage: 100
+9:1:10 
+Tree health: 0
+Damage: 100
+9:1:10 
+Tree health: -100
+Damage: 100
+9:1:10 
+Tree health: -200
+Damage: 100
+9:1:10 
+Tree health: -300
+Damage: 100
+9:1:10 
+Tree health: -400
+Damage: 100
+9:1:10 
+Tree health: -500
+Damage: 100
+9:1:10 
+Tree health: -600
+Damage: 100
+9:1:10 
+Tree health: -700
+Damage: 100
+9:1:10 
+Tree health: -800
+Damage: 100
+9:1:10 
+Tree health: -900
+Damage: 100
+9:1:10 
+Tree health: -1000
+Damage: 100
+9:1:10 
+Tree health: -1100
+Damage: 100
+9:1:10 
+Tree health: -1200
+Damage: 100
+9:1:10 
+Tree health: -1300
+Damage: 100
+9:1:10 
+Tree health: -1400
+Damage: 100
+9:1:10 
+Tree health: -1500
+Damage: 100
+9:1:10 
+Tree health: -1600
+Damage: 100
+9:1:10 
+Tree health: -1700
+Damage: 100
+9:1:10 
+Tree health: -1800
+Damage: 100
+9:1:10 
+Tree health: -1900
+Damage: 100
+9:1:10 
+Tree health: -2000
+Damage: 100
+9:1:10 
+Tree health: -2100
+Damage: 100
+9:1:10 
+Tree health: -2200
+Damage: 100
+9:1:10 
+Tree health: -2300
+Damage: 100
+9:1:10 
+Tree health: -2400
+Damage: 100
+9:1:10 
+Tree health: -2500
+Damage: 100
+9:1:10 
+Tree health: -2600
+Damage: 100
+9:1:10 
+Tree health: -2700
+Damage: 100
+9:1:10 
+Tree health: -2800
+Damage: 100
+9:1:10 
+Tree health: -2900
+Damage: 100
+9:1:10 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:10 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:10 
+Tree health: -3000
+Damage: 100
+9:1:10 
+Tree health: -3100
+Damage: 100
+9:1:10 
+Tree health: -3200
+Damage: 100
+9:1:10 
+Tree health: -3300
+Damage: 100
+9:1:10 
+Tree health: -3400
+Damage: 100
+9:1:10 
+Tree health: -3500
+Damage: 100
+9:1:10 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:10 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:10 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741906, 'mod': 0, 'scancode': 82, 'window': None})>
+9:1:10 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741906, 'mod': 0, 'scancode': 82, 'window': None})>
+9:1:10 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:11 
+Tree health: -3600
+Damage: 100
+9:1:11 
+Tree health: -3700
+Damage: 100
+9:1:11 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:11 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741906, 'mod': 0, 'scancode': 82, 'window': None})>
+9:1:11 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:11 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741906, 'mod': 0, 'scancode': 82, 'window': None})>
+9:1:11 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:11 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:11 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:11 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741906, 'mod': 0, 'scancode': 82, 'window': None})>
+9:1:11 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741906, 'mod': 0, 'scancode': 82, 'window': None})>
+9:1:11 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:11 
+Tree health: -3800
+Damage: 100
+9:1:11 
+Tree health: -3900
+Damage: 100
+9:1:11 
+Tree health: -4000
+Damage: 100
+9:1:11 
+Tree health: -4100
+Damage: 100
+9:1:11 
+Tree health: -4200
+Damage: 100
+9:1:11 
+Tree health: -4300
+Damage: 100
+9:1:11 
+Tree health: -4400
+Damage: 100
+9:1:11 
+Tree health: -4500
+Damage: 100
+9:1:11 
+Tree health: -4600
+Damage: 100
+9:1:11 
+Tree health: -4700
+Damage: 100
+9:1:11 
+Tree health: -4800
+Damage: 100
+9:1:11 
+Tree health: -4900
+Damage: 100
+9:1:11 
+Tree health: -5000
+Damage: 100
+9:1:11 
+Tree health: -5100
+Damage: 100
+9:1:11 
+Tree health: -5200
+Damage: 100
+9:1:11 
+Tree health: -5300
+Damage: 100
+9:1:11 
+Tree health: -5400
+Damage: 100
+9:1:11 
+Tree health: -5500
+Damage: 100
+9:1:11 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:11 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:11 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741906, 'mod': 0, 'scancode': 82, 'window': None})>
+9:1:11 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:11 
+Tree health: -5600
+Damage: 100
+9:1:11 
+Tree health: -5700
+Damage: 100
+9:1:11 
+Tree health: -5800
+Damage: 100
+9:1:11 
+Tree health: -5900
+Damage: 100
+9:1:11 
+Tree health: -6000
+Damage: 100
+9:1:11 
+Tree health: -6100
+Damage: 100
+9:1:11 
+Tree health: -6200
+Damage: 100
+9:1:11 
+Tree health: -6300
+Damage: 100
+9:1:11 
+Tree health: -6400
+Damage: 100
+9:1:11 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:11 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:11 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:12 
+Tree health: -6500
+Damage: 100
+9:1:12 
+Tree health: -6600
+Damage: 100
+9:1:12 
+Tree health: -6700
+Damage: 100
+9:1:12 
+Tree health: -6800
+Damage: 100
+9:1:12 
+Tree health: -6900
+Damage: 100
+9:1:12 
+Tree health: -7000
+Damage: 100
+9:1:12 
+Tree health: -7100
+Damage: 100
+9:1:12 
+Tree health: -7200
+Damage: 100
+9:1:12 
+Tree health: -7300
+Damage: 100
+9:1:12 
+Tree health: -7400
+Damage: 100
+9:1:12 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:12 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:12 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:12 
+Tree health: -7500
+Damage: 100
+9:1:12 
+Tree health: -7600
+Damage: 100
+9:1:12 
+Tree health: -7700
+Damage: 100
+9:1:12 
+Tree health: -7800
+Damage: 100
+9:1:12 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:12 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:12 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:12 
+Tree health: -7900
+Damage: 100
+9:1:12 
+Tree health: -8000
+Damage: 100
+9:1:12 
+Tree health: -8100
+Damage: 100
+9:1:12 
+Tree health: -8200
+Damage: 100
+9:1:12 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:12 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:12 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:12 
+Tree health: -8300
+Damage: 100
+9:1:12 
+Tree health: -8400
+Damage: 100
+9:1:12 
+Tree health: -8500
+Damage: 100
+9:1:12 
+Tree health: -8600
+Damage: 100
+9:1:12 
+Tree health: -8700
+Damage: 100
+9:1:12 
+Tree health: -8800
+Damage: 100
+9:1:12 
+Tree health: -8900
+Damage: 100
+9:1:12 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:12 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:13 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:13 
+Tree health: -9000
+Damage: 100
+9:1:13 
+Tree health: -9100
+Damage: 100
+9:1:13 
+Tree health: -9200
+Damage: 100
+9:1:13 
+Tree health: -9300
+Damage: 100
+9:1:13 
+Tree health: -9400
+Damage: 100
+9:1:13 
+Tree health: -9500
+Damage: 100
+9:1:13 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:13 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:13 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:13 
+Tree health: -9600
+Damage: 100
+9:1:13 
+Tree health: -9700
+Damage: 100
+9:1:13 
+Tree health: -9800
+Damage: 100
+9:1:13 
+Tree health: -9900
+Damage: 100
+9:1:13 
+Tree health: -10000
+Damage: 100
+9:1:13 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:13 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:13 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:13 
+Tree health: -10100
+Damage: 100
+9:1:13 
+Tree health: -10200
+Damage: 100
+9:1:13 
+Tree health: -10300
+Damage: 100
+9:1:13 
+Tree health: -10400
+Damage: 100
+9:1:13 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:13 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:13 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741906, 'mod': 0, 'scancode': 82, 'window': None})>
+9:1:13 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:13 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:14 
+Tree health: -10500
+Damage: 100
+9:1:14 
+Tree health: -10600
+Damage: 100
+9:1:14 
+Tree health: -10700
+Damage: 100
+9:1:14 
+Tree health: -10800
+Damage: 100
+9:1:14 
+Tree health: -10900
+Damage: 100
+9:1:14 
+Tree health: -11000
+Damage: 100
+9:1:14 
+Tree health: -11100
+Damage: 100
+9:1:14 
+Tree health: -11200
+Damage: 100
+9:1:14 
+Tree health: -11300
+Damage: 100
+9:1:14 
+Tree health: -11400
+Damage: 100
+9:1:14 
+Tree health: -11500
+Damage: 100
+9:1:14 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:14 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:14 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:14 
+Tree health: -11600
+Damage: 100
+9:1:14 
+Tree health: -11700
+Damage: 100
+9:1:14 
+Tree health: -11800
+Damage: 100
+9:1:14 
+Tree health: -11900
+Damage: 100
+9:1:14 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:14 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:14 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:14 
+Tree health: -12000
+Damage: 100
+9:1:14 
+Tree health: -12100
+Damage: 100
+9:1:14 
+Tree health: -12200
+Damage: 100
+9:1:14 
+Tree health: -12300
+Damage: 100
+9:1:14 
+Tree health: -12400
+Damage: 100
+9:1:14 
+Tree health: -12500
+Damage: 100
+9:1:14 
+Tree health: -12600
+Damage: 100
+9:1:14 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:14 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:14 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:14 
+Tree health: -12700
+Damage: 100
+9:1:14 
+Tree health: -12800
+Damage: 100
+9:1:14 
+Tree health: -12900
+Damage: 100
+9:1:14 
+Tree health: -13000
+Damage: 100
+9:1:14 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:14 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:14 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:14 
+Tree health: -13100
+Damage: 100
+9:1:14 
+Tree health: -13200
+Damage: 100
+9:1:14 
+Tree health: -13300
+Damage: 100
+9:1:14 
+Tree health: -13400
+Damage: 100
+9:1:14 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:14 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:15 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:15 
+Tree health: -13500
+Damage: 100
+9:1:15 
+Tree health: -13600
+Damage: 100
+9:1:15 
+Tree health: -13700
+Damage: 100
+9:1:15 
+Tree health: -13800
+Damage: 100
+9:1:15 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:15 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:15 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:15 
+Tree health: -13900
+Damage: 100
+9:1:15 
+Tree health: -14000
+Damage: 100
+9:1:15 
+Tree health: -14100
+Damage: 100
+9:1:15 
+Tree health: -14200
+Damage: 100
+9:1:15 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:15 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:15 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:15 
+Tree health: -14300
+Damage: 100
+9:1:15 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:15 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:15 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:15 
+Tree health: -14400
+Damage: 100
+9:1:15 
+Tree health: -14500
+Damage: 100
+9:1:15 
+Tree health: -14600
+Damage: 100
+9:1:15 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:15 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:15 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:15 
+Tree health: -14700
+Damage: 100
+9:1:15 
+Tree health: -14800
+Damage: 100
+9:1:15 
+Tree health: -14900
+Damage: 100
+9:1:15 
+Tree health: -15000
+Damage: 100
+9:1:15 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:15 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:15 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:16 
+Tree health: -15100
+Damage: 100
+9:1:16 
+Tree health: -15200
+Damage: 100
+9:1:16 
+Tree health: -15300
+Damage: 100
+9:1:16 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:16 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:16 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:16 
+Tree health: -15400
+Damage: 100
+9:1:16 
+Tree health: -15500
+Damage: 100
+9:1:16 
+Tree health: -15600
+Damage: 100
+9:1:16 
+Tree health: -15700
+Damage: 100
+9:1:16 
+Tree health: -15800
+Damage: 100
+9:1:16 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:16 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:16 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:16 
+Tree health: -15900
+Damage: 100
+9:1:16 
+Tree health: -16000
+Damage: 100
+9:1:16 
+Tree health: -16100
+Damage: 100
+9:1:16 
+Tree health: -16200
+Damage: 100
+9:1:16 
+Tree health: -16300
+Damage: 100
+9:1:16 
+Tree health: -16400
+Damage: 100
+9:1:16 
+Tree health: -16500
+Damage: 100
+9:1:16 
+Tree health: -16600
+Damage: 100
+9:1:16 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:16 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:16 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:16 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741905, 'mod': 0, 'scancode': 81, 'window': None})>
+9:1:16 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:16 
+Tree health: -16700
+Damage: 100
+9:1:16 
+Tree health: -16800
+Damage: 100
+9:1:16 
+Tree health: -16900
+Damage: 100
+9:1:16 
+Tree health: -17000
+Damage: 100
+9:1:16 
+Tree health: -17100
+Damage: 100
+9:1:16 
+Tree health: -17200
+Damage: 100
+9:1:16 
+Tree health: -17300
+Damage: 100
+9:1:16 
+Tree health: -17400
+Damage: 100
+9:1:16 
+Tree health: -17500
+Damage: 100
+9:1:16 
+Tree health: -17600
+Damage: 100
+9:1:16 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:16 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:16 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:16 
+Tree health: -17700
+Damage: 100
+9:1:16 
+Tree health: -17800
+Damage: 100
+9:1:16 
+Tree health: -17900
+Damage: 100
+9:1:16 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:16 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:16 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:17 
+Tree health: -18000
+Damage: 100
+9:1:17 
+Tree health: -18100
+Damage: 100
+9:1:17 
+Tree health: -18200
+Damage: 100
+9:1:17 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:17 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:17 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:17 
+Tree health: -18300
+Damage: 100
+9:1:17 
+Tree health: -18400
+Damage: 100
+9:1:17 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:17 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:17 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:17 
+Tree health: -18500
+Damage: 100
+9:1:17 
+Tree health: -18600
+Damage: 100
+9:1:17 
+Tree health: -18700
+Damage: 100
+9:1:17 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:17 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:17 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:17 
+Tree health: -18800
+Damage: 100
+9:1:17 
+Tree health: -18900
+Damage: 100
+9:1:17 
+Tree health: -19000
+Damage: 100
+9:1:17 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:17 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:17 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:17 
+Tree health: -19100
+Damage: 100
+9:1:17 
+Tree health: -19200
+Damage: 100
+9:1:17 
+Tree health: -19300
+Damage: 100
+9:1:17 
+Tree health: -19400
+Damage: 100
+9:1:17 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:17 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:17 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:18 
+Tree health: -19500
+Damage: 100
+9:1:18 
+Tree health: -19600
+Damage: 100
+9:1:18 
+Tree health: -19700
+Damage: 100
+9:1:18 
+Tree health: -19800
+Damage: 100
+9:1:18 
+Tree health: -19900
+Damage: 100
+9:1:18 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:18 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:18 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:18 
+Tree health: -20000
+Damage: 100
+9:1:18 
+Tree health: -20100
+Damage: 100
+9:1:18 
+Tree health: -20200
+Damage: 100
+9:1:18 
+Tree health: -20300
+Damage: 100
+9:1:18 
+Tree health: -20400
+Damage: 100
+9:1:18 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:18 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:18 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:18 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:18 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741905, 'mod': 0, 'scancode': 81, 'window': None})>
+9:1:18 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741905, 'mod': 0, 'scancode': 81, 'window': None})>
+9:1:18 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741905, 'mod': 0, 'scancode': 81, 'window': None})>
+9:1:19 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741905, 'mod': 0, 'scancode': 81, 'window': None})>
+9:1:19 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:19 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741905, 'mod': 0, 'scancode': 81, 'window': None})>
+9:1:19 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:19 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:19 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:19 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741905, 'mod': 0, 'scancode': 81, 'window': None})>
+9:1:20 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741905, 'mod': 0, 'scancode': 81, 'window': None})>
+9:1:20 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:20 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:20 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741906, 'mod': 0, 'scancode': 82, 'window': None})>
+9:1:20 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741906, 'mod': 0, 'scancode': 82, 'window': None})>
+9:1:20 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:21 
+Tree health: -20500
+Damage: 100
+9:1:21 
+Tree health: -20600
+Damage: 100
+9:1:21 
+Tree health: -20700
+Damage: 100
+9:1:21 
+Tree health: -20800
+Damage: 100
+9:1:21 
+Tree health: -20900
+Damage: 100
+9:1:21 
+Tree health: -21000
+Damage: 100
+9:1:21 
+Tree health: -21100
+Damage: 100
+9:1:21 
+Tree health: -21200
+Damage: 100
+9:1:21 
+Tree health: -21300
+Damage: 100
+9:1:21 
+Tree health: -21400
+Damage: 100
+9:1:21 
+Tree health: -21500
+Damage: 100
+9:1:21 
+Tree health: -21600
+Damage: 100
+9:1:21 
+Tree health: -21700
+Damage: 100
+9:1:21 
+Tree health: -21800
+Damage: 100
+9:1:21 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:21 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:21 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741905, 'mod': 0, 'scancode': 81, 'window': None})>
+9:1:21 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741905, 'mod': 0, 'scancode': 81, 'window': None})>
+9:1:21 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:21 
+Tree health: -21900
+Damage: 100
+9:1:22 
+Tree health: -22000
+Damage: 100
+9:1:22 
+Tree health: -22100
+Damage: 100
+9:1:22 
+Tree health: -22200
+Damage: 100
+9:1:22 
+Tree health: -22300
+Damage: 100
+9:1:22 
+Tree health: -22400
+Damage: 100
+9:1:22 
+Tree health: -22500
+Damage: 100
+9:1:22 
+Tree health: -22600
+Damage: 100
+9:1:22 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:22 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:22 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:22 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:22 
+Tree health: -22700
+Damage: 100
+9:1:22 
+Tree health: -22800
+Damage: 100
+9:1:22 
+Tree health: -22900
+Damage: 100
+9:1:22 
+Tree health: -23000
+Damage: 100
+9:1:22 
+Tree health: -23100
+Damage: 100
+9:1:22 
+Tree health: -23200
+Damage: 100
+9:1:22 
+Tree health: -23300
+Damage: 100
+9:1:22 
+Tree health: -23400
+Damage: 100
+9:1:22 
+Tree health: -23500
+Damage: 100
+9:1:22 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:22 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:22 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:22 
+Tree health: -23600
+Damage: 100
+9:1:22 
+Tree health: -23700
+Damage: 100
+9:1:22 
+Tree health: -23800
+Damage: 100
+9:1:22 
+Tree health: -23900
+Damage: 100
+9:1:22 
+Tree health: -24000
+Damage: 100
+9:1:22 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:22 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:22 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:22 
+Tree health: -24100
+Damage: 100
+9:1:22 
+Tree health: -24200
+Damage: 100
+9:1:22 
+Tree health: -24300
+Damage: 100
+9:1:22 
+Tree health: -24400
+Damage: 100
+9:1:22 
+Tree health: -24500
+Damage: 100
+9:1:22 
+Tree health: -24600
+Damage: 100
+9:1:22 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:22 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:22 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:22 
+Tree health: -24700
+Damage: 100
+9:1:22 
+Tree health: -24800
+Damage: 100
+9:1:22 
+Tree health: -24900
+Damage: 100
+9:1:22 
+Tree health: -25000
+Damage: 100
+9:1:22 
+Tree health: -25100
+Damage: 100
+9:1:22 
+Tree health: -25200
+Damage: 100
+9:1:22 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:22 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:22 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:22 
+Tree health: -25300
+Damage: 100
+9:1:22 
+Tree health: -25400
+Damage: 100
+9:1:22 
+Tree health: -25500
+Damage: 100
+9:1:22 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:23 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:23 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:23 
+Tree health: -25600
+Damage: 100
+9:1:23 
+Tree health: -25700
+Damage: 100
+9:1:23 
+Tree health: -25800
+Damage: 100
+9:1:23 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:23 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:23 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:23 
+Tree health: -25900
+Damage: 100
+9:1:23 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:23 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:23 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:23 
+Tree health: -26000
+Damage: 100
+9:1:23 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:23 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:23 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:23 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:23 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:23 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:23 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:23 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:23 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:24 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:24 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:24 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:24 
+Tree health: -26100
+Damage: 100
+9:1:24 
+Tree health: -26200
+Damage: 100
+9:1:24 
+Tree health: -26300
+Damage: 100
+9:1:24 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:24 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:24 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:24 
+Tree health: -26400
+Damage: 100
+9:1:24 
+Tree health: -26500
+Damage: 100
+9:1:24 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:24 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:24 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:24 
+Tree health: -26600
+Damage: 100
+9:1:24 
+Tree health: -26700
+Damage: 100
+9:1:24 
+Tree health: -26800
+Damage: 100
+9:1:24 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:24 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:24 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:24 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:25 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:25 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:25 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:25 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:25 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:25 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:26 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:26 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:26 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:26 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:26 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:26 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:26 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:26 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:27 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741906, 'mod': 0, 'scancode': 82, 'window': None})>
+9:1:27 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741903, 'mod': 0, 'scancode': 79, 'window': None})>
+9:1:27 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741906, 'mod': 0, 'scancode': 82, 'window': None})>
+9:1:27 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741906, 'mod': 0, 'scancode': 82, 'window': None})>
+9:1:27 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:27 
+Tree health: -26900
+Damage: 100
+9:1:27 
+Tree health: -27000
+Damage: 100
+9:1:27 
+Tree health: -27100
+Damage: 100
+9:1:27 
+Tree health: -27200
+Damage: 100
+9:1:27 
+Tree health: -27300
+Damage: 100
+9:1:27 
+Tree health: -27400
+Damage: 100
+9:1:27 
+Tree health: -27500
+Damage: 100
+9:1:27 
+Tree health: -27600
+Damage: 100
+9:1:27 
+Tree health: -27700
+Damage: 100
+9:1:27 
+Tree health: -27800
+Damage: 100
+9:1:27 
+Tree health: -27900
+Damage: 100
+9:1:27 
+Tree health: -28000
+Damage: 100
+9:1:27 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:27 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:27 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:27 
+Tree health: -28100
+Damage: 100
+9:1:27 
+Tree health: -28200
+Damage: 100
+9:1:27 
+Tree health: -28300
+Damage: 100
+9:1:27 
+Tree health: -28400
+Damage: 100
+9:1:27 
+Tree health: -28500
+Damage: 100
+9:1:27 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:27 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:27 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:27 
+Tree health: -28600
+Damage: 100
+9:1:27 
+Tree health: -28700
+Damage: 100
+9:1:27 
+Tree health: -28800
+Damage: 100
+9:1:27 
+Tree health: -28900
+Damage: 100
+9:1:27 
+Tree health: -29000
+Damage: 100
+9:1:27 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:27 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:27 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:27 
+Tree health: -29100
+Damage: 100
+9:1:27 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:27 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:28 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741906, 'mod': 0, 'scancode': 82, 'window': None})>
+9:1:28 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:28 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:28 
+Tree health: -29200
+Damage: 100
+9:1:28 
+Tree health: -29300
+Damage: 100
+9:1:28 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:28 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:28 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:28 
+Event: <Event(768-KeyDown {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:28 
+Event: <Event(769-KeyUp {'unicode': '', 'key': 1073741904, 'mod': 0, 'scancode': 80, 'window': None})>
+9:1:28 
+Event: <Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:28 
+Event: <Event(771-TextInput {'text': ' ', 'window': None})>
+9:1:28 
+Event: <Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+9:1:28 
+Event: <Event(1024-MouseMotion {'pos': (495, 422), 'rel': (-3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (493, 421), 'rel': (-2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (491, 421), 'rel': (-2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (489, 420), 'rel': (-2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (488, 420), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (487, 420), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (486, 420), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (485, 420), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (484, 420), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (483, 420), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (482, 420), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (481, 420), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (480, 420), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (479, 421), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (478, 423), 'rel': (-1, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (477, 424), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:29 
+Event: <Event(1024-MouseMotion {'pos': (475, 424), 'rel': (-2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:30 
+Event: <Event(1024-MouseMotion {'pos': (474, 423), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:30 
+Event: <Event(1024-MouseMotion {'pos': (473, 423), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:30 
+Event: <Event(1024-MouseMotion {'pos': (472, 422), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:30 
+Event: <Event(1024-MouseMotion {'pos': (471, 422), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:30 
+Event: <Event(1024-MouseMotion {'pos': (470, 422), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:30 
+Event: <Event(1024-MouseMotion {'pos': (469, 422), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:30 
+Event: <Event(1024-MouseMotion {'pos': (468, 422), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:30 
+Event: <Event(1024-MouseMotion {'pos': (467, 422), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:30 
+Event: <Event(1024-MouseMotion {'pos': (466, 422), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:1:30 
+Event: <Event(768-KeyDown {'unicode': 'h', 'key': 104, 'mod': 0, 'scancode': 11, 'window': None})>
+9:1:34 
+Event: <Event(771-TextInput {'text': 'h', 'window': None})>
+9:1:34 
+Event: <Event(769-KeyUp {'unicode': 'h', 'key': 104, 'mod': 0, 'scancode': 11, 'window': None})>
+9:1:35 
+Event: <Event(768-KeyDown {'unicode': 'h', 'key': 104, 'mod': 0, 'scancode': 11, 'window': None})>
+9:1:35 
+Event: <Event(771-TextInput {'text': 'h', 'window': None})>
+9:1:35 
+Event: <Event(769-KeyUp {'unicode': 'h', 'key': 104, 'mod': 0, 'scancode': 11, 'window': None})>
+9:1:35 
+Event: <Event(768-KeyDown {'unicode': 'k', 'key': 107, 'mod': 0, 'scancode': 14, 'window': None})>
+9:1:35 
+Event: <Event(771-TextInput {'text': 'k', 'window': None})>
+9:1:35 
+Event: <Event(769-KeyUp {'unicode': 'k', 'key': 107, 'mod': 0, 'scancode': 14, 'window': None})>
+9:1:35 
+Event: <Event(768-KeyDown {'unicode': 'k', 'key': 107, 'mod': 0, 'scancode': 14, 'window': None})>
+9:1:35 
+Event: <Event(771-TextInput {'text': 'k', 'window': None})>
+9:1:35 
+Event: <Event(769-KeyUp {'unicode': 'k', 'key': 107, 'mod': 0, 'scancode': 14, 'window': None})>
+9:1:35 
+Event: <Event(768-KeyDown {'unicode': 'c', 'key': 99, 'mod': 0, 'scancode': 6, 'window': None})>
+9:1:36 
+Key: 768 
+9:1:36 
+menu is: False and debug is False9:1:36 
+menu is: False but is turning to True9:1:36 
+menu is: True and debug is False9:1:36 
+Event: <Event(771-TextInput {'text': 'c', 'window': None})>
+9:1:36 
+Event: <Event(769-KeyUp {'unicode': 'c', 'key': 99, 'mod': 0, 'scancode': 6, 'window': None})>
+9:1:36 
+Event: <Event(768-KeyDown {'unicode': 'c', 'key': 99, 'mod': 0, 'scancode': 6, 'window': None})>
+9:1:36 
+Key: 768 
+9:1:36 
+menu is: True and debug is False9:1:36 
+menu is: True but is turning to False9:1:36 
+menu is: False and debug is False9:1:36 
+Event: <Event(771-TextInput {'text': 'c', 'window': None})>
+9:1:36 
+Event: <Event(769-KeyUp {'unicode': 'c', 'key': 99, 'mod': 0, 'scancode': 6, 'window': None})>
+9:1:36 
+Event: <Event(768-KeyDown {'unicode': 'c', 'key': 99, 'mod': 0, 'scancode': 6, 'window': None})>
+9:1:37 
+Key: 768 
+9:1:37 
+menu is: False and debug is False9:1:37 
+menu is: False but is turning to True9:1:37 
+menu is: True and debug is False9:1:37 
+Event: <Event(771-TextInput {'text': 'c', 'window': None})>
+9:1:37 
+Event: <Event(769-KeyUp {'unicode': 'c', 'key': 99, 'mod': 0, 'scancode': 6, 'window': None})>
+9:1:37 
+Event: <Event(768-KeyDown {'unicode': 'c', 'key': 99, 'mod': 0, 'scancode': 6, 'window': None})>
+9:1:39 
+Key: 768 
+9:1:39 
+menu is: True and debug is False9:1:39 
+menu is: True but is turning to False9:1:39 
+menu is: False and debug is False9:1:39 
+Event: <Event(771-TextInput {'text': 'c', 'window': None})>
+9:1:39 
+Event: <Event(769-KeyUp {'unicode': 'c', 'key': 99, 'mod': 0, 'scancode': 6, 'window': None})>
+9:1:39 
+Event: <Event(1024-MouseMotion {'pos': (461, 415), 'rel': (-5, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:21 
+Event: <Event(1024-MouseMotion {'pos': (459, 410), 'rel': (-2, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:21 
+Event: <Event(1024-MouseMotion {'pos': (457, 407), 'rel': (-2, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:21 
+Event: <Event(1024-MouseMotion {'pos': (457, 406), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:21 
+Event: <Event(1024-MouseMotion {'pos': (456, 405), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:21 
+Event: <Event(1024-MouseMotion {'pos': (456, 404), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:21 
+Event: <Event(1024-MouseMotion {'pos': (455, 404), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:21 
+Event: <Event(1024-MouseMotion {'pos': (455, 403), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:21 
+Event: <Event(1024-MouseMotion {'pos': (454, 401), 'rel': (-1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:21 
+Event: <Event(1024-MouseMotion {'pos': (451, 398), 'rel': (-3, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (446, 392), 'rel': (-5, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (438, 380), 'rel': (-8, -12), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (423, 357), 'rel': (-15, -23), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (407, 331), 'rel': (-16, -26), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (393, 310), 'rel': (-14, -21), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (381, 294), 'rel': (-12, -16), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (373, 283), 'rel': (-8, -11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (365, 276), 'rel': (-8, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (357, 271), 'rel': (-8, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (349, 267), 'rel': (-8, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (341, 265), 'rel': (-8, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (332, 262), 'rel': (-9, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (324, 260), 'rel': (-8, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (317, 259), 'rel': (-7, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (309, 258), 'rel': (-8, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (300, 258), 'rel': (-9, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (289, 259), 'rel': (-11, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (279, 262), 'rel': (-10, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (269, 266), 'rel': (-10, 4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (260, 271), 'rel': (-9, 5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (253, 279), 'rel': (-7, 8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (243, 293), 'rel': (-10, 14), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (230, 312), 'rel': (-13, 19), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (214, 337), 'rel': (-16, 25), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (200, 365), 'rel': (-14, 28), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (188, 393), 'rel': (-12, 28), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (180, 419), 'rel': (-8, 26), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (174, 442), 'rel': (-6, 23), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (171, 464), 'rel': (-3, 22), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (168, 481), 'rel': (-3, 17), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (168, 491), 'rel': (0, 10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (158, 487), 'rel': (-10, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (137, 481), 'rel': (-21, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (109, 474), 'rel': (-28, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (78, 469), 'rel': (-31, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (51, 467), 'rel': (-27, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (29, 470), 'rel': (-22, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (1, 477), 'rel': (-28, 7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(32768-ActiveEvent {'gain': 0, 'state': 1})>
+9:2:22 
+Event: <Event(32784-WindowLeave {'window': None})>
+9:2:22 
+Event: <Event(32768-ActiveEvent {'gain': 1, 'state': 1})>
+9:2:22 
+Event: <Event(32783-WindowEnter {'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (1, 477), 'rel': (0, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(1024-MouseMotion {'pos': (0, 489), 'rel': (-32, 12), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+9:2:22 
+Event: <Event(32768-ActiveEvent {'gain': 0, 'state': 1})>
+9:2:22 
+Event: <Event(32784-WindowLeave {'window': None})>
+9:2:22 
+Event: <Event(32768-ActiveEvent {'gain': 0, 'state': 2})>
+9:2:23 
+Event: <Event(32786-WindowFocusLost {'window': None})>
+9:2:23 
